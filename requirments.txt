@@ -1,0 +1,11 @@
+1 load data set
+2. shuffle 
+3. split training (70) validation 10 test 20
+4. split inputs and label (output)
+5. one hot coding 
+6. fit model without validation (compare treaing and testing acuraciees)
+7. fit model with validation (with history)
+8. create graph
+9. adjust ephoc based on graph
+10 check testing and training acurancies are mathced or not
+(chap 3: listing 3:17, 3:18, 3:19, 3:20
